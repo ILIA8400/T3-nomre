@@ -52,7 +52,7 @@ do
     Console.WriteLine("moadel shoma:" + moadel);
     if (moadel < 10)
     {
-        Console.WriteLine("shoma ridid");
+        Console.WriteLine("shoma mardood shodid");
     }
     else
     {
